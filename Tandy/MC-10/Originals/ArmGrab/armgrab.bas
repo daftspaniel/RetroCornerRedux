@@ -13,5 +13,10 @@
 200 ?@226,"ÏÏ";:?@257,"ÏÑÑÏ";:?@289,"ÏÏÏÏ";:?@322,"ÏÏ";:?@353,"ÏÏÏÏ";:?@385,"ùÏÏù";
 210 ?@449,"Ï¿¿Ï";:?@417,"ÏÏÏÏ";:?@481,"ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß";
 220 ?@40,"ROBOT¿ARM¿GRAB";:?@103,"BY¿DAVY¿MITCHELL";
-290 A$=INKEY$:IFA$=""THEN GOTO 290
+230 ?@424,"PRESS SPACE TO START";
+240 ?@160,"PRESS A TO EXTEND YOUR ROBOT ARM";
+250 ?@233+32,"CATCH THE GOLD "+ T$(1);
+260 ?@233+64,"AVOID THE ACID "+ T$(2);
+270 ?@230+128,"LONGER ARM = MORE POINTS!";
+290 A$=INKEY$:IFA$<>" "THEN GOTO 290
 300 RETURN
