@@ -14,6 +14,7 @@ April 2023:
  - Variable optimisation.
  - Sound and screen effect when 'acid' hits arm.
  - Title & instruction screens.
+ - No longer 10 lines!
 
 # Instructions
 You are the MC10 droid with an extendable arm.
@@ -22,7 +23,7 @@ Press and hold A to extend your arm. Release to retract.
 The longer your arm when you Catch the gold the more points you get!
 
 # Video 
-
+https://youtu.be/Rwsm77aOEVQ
 
 # GitHub
 

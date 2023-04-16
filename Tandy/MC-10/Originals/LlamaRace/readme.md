@@ -16,6 +16,10 @@ Original By Davy Mitchell - October 2018
 # Updates
 Switched from input to inkey$ - April 2023
 
+# Video
+
+https://youtu.be/VR8tmhOJx1E
+
 # GitHub
 
 https://github.com/daftspaniel/RetroCornerRedux
