@@ -18,13 +18,18 @@ The right result increases your rating - will you make Admiral?
 A space themed version of Rock, Papers, Scissors.
 
 # Source
+
 Jan 2019 - A minigame in 10 lines of BASIC by Davy Mitchell
 
 # Updates
-Ported & Enhanced for the Tandy MC-10 by Davy Mitchell April 2023
+
+Ported & Enhanced for the Tandy MC-10 by Davy Mitchell April 2023. Now more than 10 lines!
 
 # Instructions
+
 Press 1 2 or 3 to give an order.
+
+# Video
 
 # GitHub
 
