@@ -31,6 +31,8 @@ Press 1 2 or 3 to give an order.
 
 # Video
 
+https://youtu.be/zAR4mvS8Bg8
+
 # GitHub
 
 https://github.com/daftspaniel/RetroCornerRedux
