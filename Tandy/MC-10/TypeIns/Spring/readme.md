@@ -10,7 +10,7 @@ GFX Demo
 Book: Terrific Games For Your Tandy Color by Hal Renko & Sam Edwards
 
 # Updates
-Added checks to keep X/Y valid and reset display when space pressed.
+Moved to SG4 screen and made into a continual display.
 Davy Mitchell May 2023
 
 # GitHub
