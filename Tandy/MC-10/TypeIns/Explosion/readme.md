@@ -4,7 +4,7 @@
 Explosion
 
 # Type
-GFX Demo
+Game
 
 # Source
 Book: Terrific Games For Your Tandy Color by Hal Renko & Sam Edwards
