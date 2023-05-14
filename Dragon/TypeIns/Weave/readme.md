@@ -1,16 +1,18 @@
-![lunar](screenshot.png)
+![Weave](screenshot.png)
 
 # Name
-Lunar Lander
+Weave
 
 # Type
-Game
+GFX Demo
 
 # Source
 Book: 35 Programs For the Dragon 32 by Dr Tim Langdell
 
-# Notes
-Argh the flickering! Use Q and A to control thrust.
+# Updates
++ Added Title Screen
++ Added repeat when screen finished
++ Vary radius and fore colour
 
 # GitHub
 https://github.com/daftspaniel/RetroCornerRedux
