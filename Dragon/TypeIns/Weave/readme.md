@@ -14,5 +14,8 @@ Book: 35 Programs For the Dragon 32 by Dr Tim Langdell
 + Added repeat when screen finished
 + Vary radius and fore colour
 
+# Video
+https://youtu.be/WdSlsYLhm50
+
 # GitHub
 https://github.com/daftspaniel/RetroCornerRedux
