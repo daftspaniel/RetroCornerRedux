@@ -20,6 +20,7 @@ Please send feedback!
 4. All REMs can be removed but watch your GOSUB.
 
 # Video
+https://youtu.be/l-FnpnxN67c
 
 # GitHub
 https://github.com/daftspaniel/RetroCornerRedux/Common/BasicLib
