@@ -121,3 +121,5 @@
 
 9810 WA$=INKEY$:IF WA$="" THEN 9810
 9820 RETURN
+
+9930 BC$=CHR$(128):?@483,"press"+BC$+"any"+BC$+"key"+BC$+"to"+BC$+"continue";:GOSUB9810:RETURN
