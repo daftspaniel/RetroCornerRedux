@@ -16,9 +16,16 @@ https://en.wikipedia.org/wiki/Forest-fire_model
 
 https://rosettacode.org/wiki/Forest_fire
 
+# Updates
++ Changed display to be character updated at a time.
++ Removed name from display screen
++ Added info to Please Wait screen
++ Created compiled C10 version
 
 # Video
+Version 0.1
 https://youtu.be/BAMv_OHlbLA
+Version 0.1
 
 # GitHub
 https://github.com/daftspaniel/RetroCornerRedux
