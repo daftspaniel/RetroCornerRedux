@@ -25,7 +25,9 @@ https://rosettacode.org/wiki/Forest_fire
 # Video
 Version 0.1
 https://youtu.be/BAMv_OHlbLA
-Version 0.1
+
+Version 0.2
+https://youtu.be/NUjSaRHjhZE
 
 # GitHub
-https://github.com/daftspaniel/RetroCornerRedux
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Tandy/MC-10/Originals/ForestFire
