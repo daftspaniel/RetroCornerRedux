@@ -1,10 +1,10 @@
-![Drastar4](screenshot.png)
+![Death Valley](screenshot.png)
 
 # Name
 Death Valley
 
 # Type
-
+Arcade Game
 
 # Source
 Usborne Computer Space Games
