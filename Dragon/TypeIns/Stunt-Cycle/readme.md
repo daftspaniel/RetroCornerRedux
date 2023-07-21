@@ -15,6 +15,8 @@ Book: Sixty Programs For the Dragon 32 by Robert Erskine, Humprey Walwyan, Paul 
 + Added 'D' decrease speed to instruction screen
 
 # Video
-
+https://youtu.be/_c1vVotWNbA
 
 # GitHub
+
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/Stunt-Cycle
