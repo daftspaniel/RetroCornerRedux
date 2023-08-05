@@ -19,4 +19,4 @@ https://archive.org/details/Input_Vol_1_No_05_1997_Marshall_Cavendish_GB/mode/2u
 
 
 # GitHub
-https://github.com/daftspaniel/RetroCornerRedux
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/SpaceStation
