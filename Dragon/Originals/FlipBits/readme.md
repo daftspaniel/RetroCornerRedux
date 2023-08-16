@@ -13,5 +13,4 @@ https://rosettacode.org/wiki/Flipping_bits_game
 Davy Mitchell August 2023
 
 # GitHub
-
-https://github.com/daftspaniel/RetroCornerRedux
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/FlipBits
