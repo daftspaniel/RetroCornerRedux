@@ -1,14 +1,20 @@
 ![Flip](screenshot.png)
 
 # Name
-Flipping Bitd
+Flipping Bits
 
 # Type
 Game Puzzle
 
 # Source
-Ported from ZX-81
+Coded from scratch based on the game details at:
 https://rosettacode.org/wiki/Flipping_bits_game
+
+# Controls
+
+Press 1-7 A-G to flip a column or row.
+
+Press R to reset to the starting point.
 
 Davy Mitchell August 2023
 
