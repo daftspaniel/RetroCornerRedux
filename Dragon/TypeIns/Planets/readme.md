@@ -17,6 +17,7 @@ Best of PCW : Software for the Dragon 32
 4. Add title screen.
 
 # Video
-
+https://youtu.be/iQk5AjlGS40
 
 # GitHub
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/Planets
