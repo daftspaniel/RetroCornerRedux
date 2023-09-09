@@ -4,7 +4,7 @@
 Planets
 
 # Type
-GFX Demo / Simuldation
+GFX Demo / Simulation
 
 # Source
 Best of PCW : Software for the Dragon 32
