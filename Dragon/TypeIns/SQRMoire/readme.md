@@ -1,6 +1,6 @@
 
 
-![MoireSet](screenshot.png)
+![SQRMoireSet](screenshot.png)
 
 # Name
 Moire / SQR Patterns
@@ -17,11 +17,11 @@ This produces a series of patterns on the low res screen. There's quite a slow p
 Based on a C64 one liner from this Facebook post
 https://www.facebook.com/groups/2057165187928233/permalink/3651259908518745
 
-Original by Josip Kalebić,
+Original by Josip Kalebić
 
 # Video
 
 
 # GitHub
 
-https://github.com/daftspaniel/RetroCornerRedux
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/TypeIns/SQRMoire
