@@ -21,3 +21,6 @@ Press R to reset to the starting point.
 
 # GitHub
 https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/FlipBits
+
+# Video
+https://youtu.be/99ud-QOBXEY
