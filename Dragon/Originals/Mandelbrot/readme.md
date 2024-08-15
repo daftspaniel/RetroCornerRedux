@@ -12,4 +12,4 @@ Converted from various BASIC versions found on the net.
 
 # GitHub
 
-https://github.com/daftspaniel/RetroCornerRedux
+https://github.com/daftspaniel/RetroCornerRedux/tree/main/Dragon/Originals/Mandelbrot
