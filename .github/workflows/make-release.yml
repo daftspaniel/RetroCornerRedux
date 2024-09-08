@@ -5,7 +5,7 @@ on:
 
 jobs:
   build-and-upload-files:
-    runs-on: jamieleecho/coco-dev:latest
+    runs-on: jamieleecho/coco-dev@latest
     steps:
       - uses: actions/checkout@v4
       - name: Build c10 and dsk files
