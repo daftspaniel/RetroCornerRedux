@@ -10,7 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Build c10 and dsk files
-        run: make all
+        run: |
+          make all
+
 
       - name: 'Upload c10 and dsk files'
         uses: actions/upload-artifact@v4
@@ -31,11 +33,15 @@ jobs:
           echo "RELEASE_TAG=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
           echo "REPO_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
 
+      - name: Zip the release contents
+        run: |
+          zip c10_dsk_files.zip c10_dsk_files/* -r
+
       - name: Create a release
         uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
-          artifacts: "./c10_dsk_files"
+          artifacts: "c10_dsk_files.zip"
           body: "Latest release"
           draft: false
           name: "${{ format('{0} {1}', env.REPO_NAME, env.RELEASE_TAG) }}"
