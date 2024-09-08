@@ -1,0 +1,12 @@
+name: Build
+
+on:
+  - push
+
+jobs:
+  build-files:
+    runs-on: jamieleecho/coco-dev:latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build c10 and dsk files
+        run: make all
