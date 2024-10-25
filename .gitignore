@@ -1,0 +1,110 @@
+*.py[cod]
+__pycache__
+node_modules
+
+# C extensions
+*.so
+.DS_Store
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+coverage
+.coverage
+.tox
+nosetests.xml
+htmlcov
+
+# Translations
+*.mo
+
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Pycharm/Intellij
+.idea
+
+# Complexity
+output/*.html
+output/*/index.html
+
+# Sphinx
+docs/_build
+
+# JS
+.webassets-cache
+webpack-stats*
+src/schema_browser/media
+webpack-stats-*
+
+# Vagrant
+Vagrantfile.local
+.vagrant
+
+# Logs
+production.log
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# DBs
+db.sqlite3*
+test.db*
+
+# don't check in NCBI data
+ncbi/
+
+# compiled static files
+
+.*.swp
+Session.vim
+src/db.sqlite3
+src/static
+**/docker-compose.override.yml
+
+# Random Stuff
+.bash*
+cfg/
+.coverage*
+os9boot.dsk
+basic.dsk
+snap/
+*~
+*.tmp
+examples/b09
