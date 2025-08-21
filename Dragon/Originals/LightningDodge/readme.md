@@ -7,7 +7,7 @@ Lightning Dodge
 Action Game
 
 # Controls
-Q to move left and P to move right.
+Q to move left and P to move right. Dodge the Lightning!
 Davy Mitchell February 2025
 
 # GitHub
