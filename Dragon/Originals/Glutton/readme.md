@@ -5,6 +5,7 @@ Glutton
 
 # Type
 Puzzle Game
+Based on https://rosettacode.org/wiki/Greed
 
 # Controls
 Q / A = UP AND DOWN
